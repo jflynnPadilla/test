@@ -1,0 +1,3 @@
+include_markdown:
+  dir: source/_template   # Base directory of template markdown
+  verbose : true          # If you want to check the path of markdown that use <!-- md --> tag , please set the true.
